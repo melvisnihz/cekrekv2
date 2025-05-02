@@ -19,7 +19,7 @@ export default function DefaultLayout({
         <span className="text-default-600">
           &copy; 2024-{new Date().getFullYear()}
         </span>
-        <p className="text-primary">CekRekening.</p> -
+        <p className="text-primary">Suster123 Tools.</p> -
         <p className={"text-default-600 font-mono code"}>v2.0</p>
       </footer>
     </div>
